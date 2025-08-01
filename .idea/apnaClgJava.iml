@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_Basics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_ConditionalStatements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_PatternQues" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
