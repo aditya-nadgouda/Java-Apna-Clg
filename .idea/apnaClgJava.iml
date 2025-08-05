@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/03_Loops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_PatternQues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_FunctionsAndMethods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_TimeAndSpaceComplexity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_StringAndStringBuilder" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

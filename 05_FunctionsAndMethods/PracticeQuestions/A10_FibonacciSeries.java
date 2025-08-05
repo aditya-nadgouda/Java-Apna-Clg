@@ -32,7 +32,6 @@ public class A10_FibonacciSeries {
                     System.out.print(n2+" ");
                 }
             }
-
     }
 
     public static void main(String[] args) {
