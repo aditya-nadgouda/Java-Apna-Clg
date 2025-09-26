@@ -40,3 +40,6 @@ Total operations : n * n
 
 ## Space complexity :
 - Code's space in memory.
+
+------------------------------------------------------
+- Revise AP / GP from Maths (Arithmetic progression)

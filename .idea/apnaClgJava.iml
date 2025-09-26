@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/06_TimeAndSpaceComplexity" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07_Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08_StringAndStringBuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_OperatorsBinaryNumBitManipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Recursion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
